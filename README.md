@@ -1,8 +1,4 @@
 - Hello World! I’m usagi.
-- I’m interested in game development, hacking, and bioinformatics
-- I’m currently learning Python and C++
-- I’m looking to collaborate on Game Devlopment, Linux Fundamentals, Bioinformatics, and learning to code
-- How to reach me - bunnywalkerusagi@gmail.com
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣄⣀⣠⣀⡀⠀⠀⠀⠀⠀⠀⢀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
